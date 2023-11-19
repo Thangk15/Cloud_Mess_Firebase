@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913581973429",
+    "project_id": "testcm-9a75f",
+    "storage_bucket": "testcm-9a75f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913581973429:android:028ed71bf933a5aa0d43fc",
+        "android_client_info": {
+          "package_name": "com.nekomn104.CloudMess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3mIm6tUFT7U-fXBONJNZNKY1TN9doOIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
